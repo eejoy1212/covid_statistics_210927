@@ -22,7 +22,7 @@ GIF Images
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
+| Dart | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
 |   ![js]    |   ![ts]    | ![react] | ![node] |
 
@@ -30,7 +30,7 @@ GIF Images
 
 ## 구현 기능
 
-### 기능 1
+### 차트에 일별 코로나 데이터를 나타냄.
 
 ### 기능 2
 
