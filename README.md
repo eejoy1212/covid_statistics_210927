@@ -3,7 +3,7 @@
 목차
 
 ## 프로젝트 소개
-<img src="./assets/images/covid.png">
+<img src="./assets/images/covid.png" width="300">
 
 
 <br>
